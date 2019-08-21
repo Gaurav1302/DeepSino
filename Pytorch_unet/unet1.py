@@ -118,10 +118,6 @@ class UNet(nn.Module):
             nn.ReLU(inplace=True),
         )
 
-        # Final output
-        # self.conv_final = nn.Conv2d(in_channels=32, out_channels=2,
-        #                             kernel_size=1, padding=0, stride=1)
-
         self.conv_final = nn.Sequential(
             nn.Conv2d(in_channels=self.f, out_channels=1,
                       kernel_size=3, padding=1, stride=1),
