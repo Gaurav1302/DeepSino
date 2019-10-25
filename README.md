@@ -6,7 +6,9 @@ Navchetan Awasthi\*, Gaurav Jain\*, Sandeep Kumar Kalva, Manojit Pramanik, Phane
 Please cite the above work, in case a part or whole code has been used in your work.
 
 
-![ Architecture ]( ./Sample\ Images/Figure-1.pdf )
+![ Architecture ]( ./Sample%20Images/Figure-1.png )
+
+
 
 
 (README file shall be updated soon..)
