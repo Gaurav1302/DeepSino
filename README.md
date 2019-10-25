@@ -4,5 +4,5 @@ Navchetan Awasthi\*, Gaurav Jain\*, Sandeep Kumar Kalva, Manojit Pramanik, Phane
 \* Co-first authors wth equal contribution
 
 Please cite the above work, in case a part or whole code has been used in your work.
-
+![ Architecture ]( ./Sample Images/Figure-1.pdf )
 (README file shall be updated soon..)
