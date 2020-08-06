@@ -1,4 +1,4 @@
-# Deep Neural-Network Based Sinogram Super-resolution and Bandwidth Enhancement for Limited Data Photoacoustic Tomography (Under Review)
+# Deep Neural-Network Based Sinogram Super-resolution and Bandwidth Enhancement for Limited Data Photoacoustic Tomography [Link](https://doi.org/10.1109/TUFFC.2020.2977210)
 This repo contains an implementation of our work:\
 Navchetan Awasthi\*, Gaurav Jain\*, Sandeep Kumar Kalva, Manojit Pramanik, Phaneendra K. Yalavarthy, "Deep Neural-Network Based Sinogram Super-resolution and Bandwidth Enhancement for Limited Data Photoacoustic Tomography" \
 \* Co-first authors wth equal contribution
@@ -11,4 +11,4 @@ Please cite the above work, in case a part or whole code has been used in your w
 
 
 
-(README file shall be updated soon..)
+(README file shall be updated soon.)
